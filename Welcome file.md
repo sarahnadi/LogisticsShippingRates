@@ -294,10 +294,7 @@ The `Shipping_Calculation` branch now contains the `Shipping_Cost_Calculator.py`
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/Practice_Project/images/shipping-py_merged-to-master-02.png)  
   
 
-## Congratulations
-
-In this lab you have created a repository in your GitHub account with a README.md file and a License. You have then edited the README file and added Code of Conduct, and Contribution Guidelines. Further, you have commited these files to your repository. Finally, you have added the Shipping logistics calculator file to a new branch, and merged it to the main branch using a Pull Request.
-
+# Creadits to:
 ## Author(s)
 
 #### Nikesh Kumar
