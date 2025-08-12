@@ -86,25 +86,7 @@ Your repository is created and includes the README and LICENSE files. Now, you a
 
 2.  Add the following information to the file:
 
-1.  1
-2.  2
-3.  3
-4.  4
-5.  5
-6.  6
-7.  7
-8.  8
-9.  9
-10.  10
-11.  11
-12.  12
-13.  13
-14.  14
-15.  15
-16.  16
-17.  17
-18.  18
-19.  19
+
 
 1.  `Please consider the below factors while contributing`
 
@@ -198,26 +180,6 @@ Contribution guidelines provide clear instructions for individuals looking to co
 2.  Inside the file, include the following information:
     
 
-1.  1
-2.  2
-3.  3
-4.  4
-5.  5
-6.  6
-7.  7
-8.  8
-9.  9
-10.  10
-11.  11
-12.  12
-13.  13
-14.  14
-15.  15
-16.  16
-17.  17
-18.  18
-19.  19
-20.  20
 
 1.  `Contribution guidelines`
 2.  `Welcome  Contributors!`
